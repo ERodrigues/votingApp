@@ -1,2 +1,6 @@
-package br.como.estudo.votingApp.model;public class Voting {
+package br.com.estudo.votingApp.model;
+
+public class Voting {
+    private String nameCandidate;
+    private String regionOfVote; 
 }
