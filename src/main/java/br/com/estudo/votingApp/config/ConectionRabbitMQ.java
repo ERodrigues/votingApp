@@ -1,4 +1,4 @@
-package br.com.estudo.votingApp.infra;
+package br.com.estudo.votingApp.config;
 
 import org.springframework.amqp.core.AmqpAdmin;
 import org.springframework.amqp.core.Binding;
